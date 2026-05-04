@@ -1,4 +1,4 @@
-For download instructions:
+Download instructions:
 
 For windows users: **once downloaded make sure to extract all files before continuing. 
 Once extracted go into the folder named ‘Project-KNF(ver. 3 Windows)’ and look for the 
